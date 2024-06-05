@@ -1,5 +1,5 @@
 # Master-s-thesis
-석사 학위 논문 관련 연구입니다.
+[석사 학위 논문](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/file:///C:/Users/Songwooseok/Downloads/%EC%86%A1%EC%9A%B0%EC%84%9D_%EC%84%9D%EC%82%AC%ED%95%99%EC%9C%84%EC%B2%AD%EA%B5%AC%EB%85%BC%EB%AC%B8%20(1).pdf) 관련 연구입니다.
 
 # 결론 
 ![image](https://github.com/Songwooseok123/Master-s-thesis/assets/80091008/50b5da15-426d-4054-b19e-5e468e779d07)
@@ -32,6 +32,8 @@
   - ![image](https://github.com/Songwooseok123/Master-s-thesis/assets/80091008/d8e53a58-e748-4177-94ec-0a0ceeea1689)
 ### 3. Probing with Logistic Regression Classifier
   - ![image](https://github.com/Songwooseok123/Master-s-thesis/assets/80091008/26904a66-27c2-4011-acc8-cc50adc40442)
+### 최종 결과 표 
+- ![image](https://github.com/Songwooseok123/Master-s-thesis/assets/80091008/d689aff8-7858-4df0-9245-85d8243ede34)
 
 
 
