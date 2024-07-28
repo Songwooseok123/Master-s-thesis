@@ -4,8 +4,9 @@
 ## 결론 
 ![image](https://github.com/Songwooseok123/Master-s-thesis/assets/80091008/50b5da15-426d-4054-b19e-5e468e779d07)
 
-- Dialogue Context 앞에 감정을 제어하는 prompt를 추가해줘서, zero-shot으로 감정 controll generation을 하는 상황 
-- Dialogue Context에 감정 정보를 빠르게(더 앞선 레이어에서) 인코딩 할 수록, 레이어 관점에서 감정을 빨리(더 앞선 레이어에서) 구분할 수록, 감정 제어를 잘한다!
+- Dialogue Context 앞에 감정을 제어하는 prompt를 추가해서, zero-shot으로 감정 controll generation을 하는 상황
+- 결과1: Layer 관점에서 현상을 관찰한 결과, 감정을 제어하는 Prompt를 입력으로 주어 Zero-shot learning을 수행하는 메커니즘이 언어 모델 전체를 Fine-tuning한 것과 비슷한 양상을 보인다.  
+- 결과2: Dialogue Context에 감정 정보를 빠르게(더 앞선 레이어에서) 인코딩 할 수록, 레이어 관점에서 감정을 빨리(더 앞선 레이어에서) 구분할 수록, 감정 제어를 잘한다!
 
 ## Introduction
 - LLM Zero shot 잘 함
